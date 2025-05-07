@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<ResourceDictionary xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+    <DrawingGroup x:Key="Layer_1">
+        <DrawingGroup.ClipGeometry>
+            <RectangleGeometry Rect="0.0,0.0,210.0,297.0"/>
+        </DrawingGroup.ClipGeometry>
+        <DrawingGroup Transform="0.991319,-0.13148,0.13148,0.991319,175.351,3.14198">
+            <GeometryDrawing>
+                <GeometryDrawing.Pen>
+                    <Pen Brush="#ff06da1e" Thickness="7.561" DashCap="Flat">
+                        <Pen.DashStyle>
+                            <DashStyle Dashes=""/>
+                        </Pen.DashStyle>
+                    </Pen>
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M 149.845 160.603 L 36.4542 189.88 L -26.4295 91.0861 L 48.0968 0.751201 L 157.04 43.7149 Z" FillRule="Nonzero"/>
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M 149.845 160.603 L 36.4542 189.88 L -26.4295 91.0861 L 48.0968 0.751201 L 157.04 43.7149 Z" FillRule="Nonzero"/>
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="0.991319,-0.13148,0.13148,0.991319,188.469,2.43633">
+            <GeometryDrawing>
+                <GeometryDrawing.Pen>
+                    <Pen Brush="#ff06da1e" Thickness="7.561" DashCap="Flat">
+                        <Pen.DashStyle>
+                            <DashStyle Dashes=""/>
+                        </Pen.DashStyle>
+                    </Pen>
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M 149.845 160.603 L 36.4542 189.88 L -26.4295 91.0861 L 48.0968 0.751201 L 157.04 43.7149 Z" FillRule="Nonzero"/>
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M 149.845 160.603 L 36.4542 189.88 L -26.4295 91.0861 L 48.0968 0.751201 L 157.04 43.7149 Z" FillRule="Nonzero"/>
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup Transform="0.991319,-0.13148,0.13148,0.991319,203.223,1.22204">
+            <GeometryDrawing>
+                <GeometryDrawing.Pen>
+                    <Pen Brush="#ff06da1e" Thickness="7.561" DashCap="Flat">
+                        <Pen.DashStyle>
+                            <DashStyle Dashes=""/>
+                        </Pen.DashStyle>
+                    </Pen>
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M 149.845 160.603 L 36.4542 189.88 L -26.4295 91.0861 L 48.0968 0.751201 L 157.04 43.7149 Z" FillRule="Nonzero"/>
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry Figures="M 149.845 160.603 L 36.4542 189.88 L -26.4295 91.0861 L 48.0968 0.751201 L 157.04 43.7149 Z" FillRule="Nonzero"/>
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+    </DrawingGroup>
+    <DrawingImage Drawing="{StaticResource Layer_1}" x:Key="di_Layer_1"/>
+</ResourceDictionary>
